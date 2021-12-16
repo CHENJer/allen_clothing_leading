@@ -1,4 +1,8 @@
-# allen_clothing_leading test
+# allen_clothing_leading
+#前端使用vue3+element Plus
+#yarn 1.22.17
+#node v12.10.0
+
 
 ## Project setup
 ```
